@@ -3,7 +3,7 @@
 The FullStack Blog is a web application that allows users to write and manage blog posts. Users can create accounts, log in, write posts, view posts, and interact with the blogging community. The app provides a platform for sharing ideas, stories, and insights.
 
 
- <img src="./client/src/img/img6.png" alt=""></img>
+ <img src="./img6.png" alt=""></img>
 
 # Features
 
